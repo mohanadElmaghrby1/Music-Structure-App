@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--the songs text color-->
+    <color name="colorSongs">#e2c718</color>
+    <!--the sons activity darker color -->
+    <color name="colorSonsActivityDarker">#ae990f</color>
+    <!--the albums text color-->
+    <color name="colorAlbums">#3ad947</color>
+    <!--the artist text style-->
+    <color name="colorArtists">#eeff325b</color>
+    <!--the sound cloud text style-->
+    <color name="colorSoundCloud">#6462e2</color>
+
+    <color name="colorTextMainActivity">#393939</color>
+</resources>

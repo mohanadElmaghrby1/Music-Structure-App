@@ -1,0 +1,71 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--&lt;!&ndash; Songs activity theme. &ndash;&gt;-->
+    <!--<style name="SongsTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorSongs</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorSonsActivityDarker</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    <!--</style>-->
+
+    <!--style the songs selection-->
+    <style name="songsStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/colorSongs</item>
+        <item name="android:layout_marginTop">@dimen/activity_main_options_margin</item>
+        <item name="android:layout_marginLeft">@dimen/activity_main_options_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_main_options_margin</item>
+        <item name="android:textSize">@dimen/main_textSize</item>
+        <item name="android:textColor">@color/colorTextMainActivity</item>
+    </style>
+
+    <!--style the artist selection-->
+    <style name="albumsStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/colorAlbums</item>
+        <item name="android:layout_marginRight">@dimen/activity_main_options_margin</item>
+        <item name="android:layout_marginTop">@dimen/activity_main_options_margin</item>
+        <item name="android:layout_marginLeft">@dimen/activity_main_options_margin</item>
+        <item name="android:textSize">@dimen/main_textSize</item>
+        <item name="android:textColor">@color/colorTextMainActivity</item>
+    </style>
+
+    <!--style the artist selection-->
+    <style name="artistStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/colorArtists</item>
+        <item name="android:layout_marginTop">@dimen/activity_main_options_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_main_options_margin</item>
+        <item name="android:textSize">@dimen/main_textSize</item>
+        <item name="android:textColor">@color/colorTextMainActivity</item>
+    </style>
+
+    <!--style the playlist selection-->
+    <style name="playlistStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:background">#cf794e</item>
+        <item name="android:layout_marginTop">@dimen/activity_main_options_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_main_options_margin</item>
+        <item name="android:textSize">@dimen/main_textSize</item>
+        <item name="android:textColor">@color/colorTextMainActivity</item>
+    </style>
+
+    <!--style the sound cloud selection in the main activity-->
+    <style name="soundCloudStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/colorSoundCloud</item>
+        <item name="android:layout_marginLeft">@dimen/activity_main_options_margin</item>
+        <item name="android:layout_marginBottom">@dimen/activity_main_options_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_main_options_margin</item>
+        <item name="android:textSize">@dimen/main_textSize</item>
+        <item name="android:textColor">@color/colorTextMainActivity</item>
+    </style>
+</resources>
