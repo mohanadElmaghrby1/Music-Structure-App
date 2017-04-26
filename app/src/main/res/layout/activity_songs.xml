@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="display all the music  of the device"
+        android:text="display all the music  of the device Using the MEdiaPlayer And ListView And ArrayAdapter to display and play the music"
         android:textSize="20sp"/>
 
     <ListView

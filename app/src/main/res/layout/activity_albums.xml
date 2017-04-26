@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="the music albums of the device"
+        android:text="the music albums of the device using the listView and ArrayAdapter"
         android:textSize="20sp"/>
 
 </LinearLayout>

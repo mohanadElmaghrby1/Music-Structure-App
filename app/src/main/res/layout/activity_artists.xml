@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="the music Artists display each artist info"
+        android:text="the music Artists display each artist info Using The List View And Array Adapter"
         android:textSize="20sp"/>
 
 </RelativeLayout>
