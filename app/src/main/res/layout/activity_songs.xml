@@ -7,6 +7,12 @@
     android:layout_height="match_parent"
     tools:context="musicapp.example.com.musicapp.SongsActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="display all the music  of the device"
+        android:textSize="20sp"/>
+
     <ListView
         android:id="@+id/songs_list"
         android:layout_width="match_parent"
